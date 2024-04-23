@@ -4,7 +4,13 @@ module.exports = {
     "./src/**/*.{html,js,jsx,ts,tsx}", // Add JSX/TSX file types
   ],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        customGray: "#fafafa",
+        customBlue: "#1b5b8e",
+        customGreen: "#98dbc6",
+      },
+    },
   },
   plugins: [],
 };

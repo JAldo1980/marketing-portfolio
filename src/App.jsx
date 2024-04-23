@@ -1,11 +1,17 @@
-import { useState } from "react";
+import React from "react";
+import Container from "./components/Container";
+import Nav from "./components/Nav";
+import Hero from "./components/Hero";
 import "./App.css";
 
 function App() {
   return (
-    <>
-      <h1 className="bg-red-400">Test</h1>
-    </>
+    <div className="custom-background">
+      <Container>
+        <Nav />
+        <Hero />
+      </Container>
+    </div>
   );
 }
 

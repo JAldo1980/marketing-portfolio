@@ -10,7 +10,7 @@ const CTA = () => {
       <Button
         type="button"
         label="Contact"
-        className="mb-6 bg-customGreen mt-4 py-2 px-6 font-bold rounded-full text-customGray cursor-pointer hover:bg-green-300 hover:duration-300 hover:ease-in-out"
+        className="mb-6 bg-customGreen mt-4 py-2 px-6 font-bold text-customGray cursor-pointer shadow-md  hover:bg-green-300 hover:duration-300 hover:ease-in-out"
       />
     </div>
   );

@@ -2,6 +2,9 @@ import React from "react";
 import Container from "./components/Container";
 import Nav from "./components/Nav";
 import Hero from "./components/Hero";
+import About from "./components/About";
+import CTA from "./components/CTA";
+import Footer from "./components/Footer";
 import "./App.css";
 
 function App() {
@@ -10,6 +13,9 @@ function App() {
       <Container>
         <Nav />
         <Hero />
+        <About />
+        <CTA />
+        <Footer />
       </Container>
     </div>
   );

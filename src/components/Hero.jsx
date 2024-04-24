@@ -1,26 +1,28 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
 import Button from "./Button";
 
 const Hero = () => {
+  const [imageSource, setImageSource] = useState(
+    "/public/tablet-main-banner.png"
+  );
+
+  useEffect(() => {
+    const handleResize = () => {
+      if (window.innerWidth < 640) {
+        setImageSource("/public/tablet-main-banner.png");
+      } else {
+        setImageSource("/public/desktop-main-banner.png");
+      }
+    };
+
+    handleResize(); // Call it initially
+    window.addEventListener("resize", handleResize);
+    return () => window.removeEventListener("resize", handleResize);
+  }, []); // Empty dependency array ensures this effect runs only once
+
   return (
-    <div className="relative">
-      <img
-        src="/public/main-banner.png"
-        alt="main-banner-image"
-        className="w-full"
-      />
-      <div className="absolute bottom-0 left-0 p-4 bg-customGray w-1/2">
-        <h2 className="text-8xl text-customBlue">James Alderman</h2>
-        <p className="mt-4">
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Non,
-          quisquam temporibus cum laboriosam soluta optio quibusdam a saepe esse
-          sequi.
-        </p>
-        <Button
-          className="mt-4 bg-customGreen py-2 px-6 cursor-pointer font-bold text-customGray"
-          label="About Me"
-        />
-      </div>
+    <div className="grid">
+      <img src={imageSource} alt="main-banner-image" className="w-full" />
     </div>
   );
 };

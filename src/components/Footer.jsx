@@ -2,8 +2,8 @@ import React from "react";
 
 const Footer = () => {
   return (
-    <>
-      <div className="flex justify-between">
+    <div>
+      <div className="mb-4 flex justify-between">
         <div>
           <img
             src="/public/james-alderman-logo__1_-removebg-preview.png"
@@ -17,7 +17,8 @@ const Footer = () => {
           <div className="hover:text-gray-300 duration-300">Contact Me</div>
         </div>
       </div>
-    </>
+      <div className="opacity-20">James Alderman | 2024</div>
+    </div>
   );
 };
 

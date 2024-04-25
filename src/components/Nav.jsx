@@ -18,13 +18,10 @@ const Nav = () => {
           Home
         </Link>
 
-        <Link
-          to="/pages/Portfolio"
-          className="hover:text-gray-300 duration-300"
-        >
+        <Link to="/Portfolio" className="hover:text-gray-300 duration-300">
           Portfolio
         </Link>
-        <Link to="/pages/Contact" className="hover:text-gray-300 duration-300">
+        <Link to="/Contact" className="hover:text-gray-300 duration-300">
           Contact
         </Link>
         {/* Add more links for other pages */}

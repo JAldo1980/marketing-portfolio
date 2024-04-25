@@ -1,5 +1,6 @@
 import React from "react";
 import Button from "./Button";
+import { Link } from "react-router-dom";
 
 const About = () => {
   return (
@@ -42,11 +43,13 @@ const About = () => {
             <div>I can't wait to work with you!</div>
           </div>
 
-          <Button
-            className="mb-6 bg-customGreen mt-4 py-2 px-6 font-bold text-customGray cursor-pointer  shadow-md hover:bg-green-300 hover:duration-300 hover:ease-in-out"
-            type="button"
-            label="View portfolio"
-          />
+          <Link to="/Portfolio">
+            <Button
+              className="mb-6 bg-customGreen mt-4 py-2 px-6 font-bold text-customGray cursor-pointer  shadow-md hover:bg-green-300 hover:duration-300 hover:ease-in-out"
+              type="button"
+              label="View portfolio"
+            />
+          </Link>
         </div>
         <div className="sm:content-center sm:order-first">
           <img

@@ -3,7 +3,9 @@ import React from "react";
 const Contact = () => {
   return (
     <>
-      <div></div>
+      <div>
+        <h2 className="mt-12 text-5xl">Contact</h2>
+      </div>
     </>
   );
 };

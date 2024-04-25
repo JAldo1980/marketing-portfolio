@@ -2,6 +2,7 @@ const PortfolioData = [
   // NUMBER ONE
   {
     id: 1,
+    slug: "community-building",
     image: "/public/Project Image.png",
     title: "Community Building",
     text: "Velolock's LOCK8 revolutionised bike sharing through innovative hardware and software integration, offering efficient fleet management and promoting sustainable transportation. This case study delves into the strategic community-building efforts that contributed to the success of LOCK8's crowdfunding campaign on Kickstarter and its recognition as a Tech Crunch Winner in 2013.",
@@ -26,6 +27,7 @@ const PortfolioData = [
   // NUMBER TWO
   {
     id: 2,
+    slug: "seo-expertise",
     image: "/public/Project Image.png",
     title: "SEO Expertise",
     text: "To enhance the SEO and social media strategies of leading iGaming and bingo affiliate enterprises in the UK, including Foxy Bingo, Mecca Bingo, Gala Bingo, and Paddy Power, thereby improving their online visibility and engagement.",
@@ -56,6 +58,7 @@ const PortfolioData = [
   // NUMBER THREE
   {
     id: 3,
+    slug: "teaching-mentoring",
     image: "/public/Project Image.png",
     title: "Elevating Digital Marketing Teaching and Mentoring",
     text: "To enhance the digital skills and knowledge of learners in the field of digital marketing through effective training, coaching, and mentoring.",
@@ -84,6 +87,7 @@ const PortfolioData = [
   // NUMBER FOUR
   {
     id: 4,
+    slug: "project-management",
     image: "/public/Project Image.png",
     title: "Project Management and Marketing Prowess",
     text: "To integrate digital media and cutting-edge technologies into digital marketing apprenticeships, providing learners with skills aligned with industry demands.",
@@ -110,6 +114,7 @@ const PortfolioData = [
   },
   {
     id: 5,
+    slug: "driving-business",
     image: "/public/Project Image.png",
     title: "Driving Business Growth",
     text: "To lead a unique digital marketing agency towards sustainable business growth by providing strategic leadership, fostering client relationships, and ensuring collaborative efforts internally.",
@@ -139,27 +144,86 @@ const PortfolioData = [
   },
   {
     id: 6,
+    slug: "resource-website",
     image: "/public/Project Image.png",
     title: "Creation of a resource website",
     text: "To create a resourceful website, Atomic Portfolios, aimed at assisting aspiring digital marketers in building effective digital marketing portfolios quickly and efficiently.",
     buttonText: "More detail",
     buttonLink: "#",
+    // individual page details below
+    objective:
+      "To lead a unique digital marketing agency towards sustainable business growth by providing strategic leadership, fostering client relationships, and ensuring collaborative efforts internally.",
+    approach: [
+      "1. Community-Focused Resource: Developed Atomic Portfolios as a community-based resource dedicated to helping individuals kickstart their digital marketing portfolios with minimal effort.",
+      "2. Simplified Portfolio Creation: Designed the Atomic Portfolio concept to streamline the portfolio creation process, enabling users to begin with just one digital marketing project, ensuring quality without compromise.",
+      "3. Educational Content: Provided downloadable guides and blog posts to educate users on the importance of digital marketing portfolios and how to create them effectively.",
+      "4. Interactive Support: Established an engaged community of Atomic Portfolio builders, offering support, feedback, and advice through forums and dedicated channels.",
+      "5. User-Centric Design: Created a user-friendly website interface with easy-to-follow steps, ensuring that users, even those with minimal design experience, could navigate and utilize the resources effectively.",
+    ],
+    results: [
+      "1. Empowered Aspiring Marketers: Atomic Portfolios provided aspiring marketers with a valuable resource to kickstart their careers by creating impactful digital marketing portfolios.",
+      "2. Efficient Portfolio Building: The Atomic Portfolio format enabled users to quickly and efficiently build focused and effective portfolios, removing the complexity and uncertainty from the process.",
+      "3. Community Engagement: The establishment of an engaged community fostered collaboration, support, and knowledge-sharing among users, enhancing the overall learning experience.",
+      "4. Increased Awareness: Educational content and blog posts raised awareness about the importance of digital marketing portfolios, attracting more users to the Atomic Portfolios platform.",
+      "5. Positive Feedback: Received positive feedback from users who found Atomic Portfolios to be a valuable and time-saving resource in their journey towards securing digital marketing roles.",
+    ],
+    imageOne: "/public/Project Image.png",
+    imageTwo: "/public/Project Image.png",
   },
   {
     id: 7,
+    slug: "youtube-management",
     image: "/public/Project Image.png",
-    title: "Empowering Digital Marketing Students through YouTube Reviews",
+    title: "YouTube Management",
     text: "To create a YouTube channel dedicated to assisting digital marketing students, graduates, and aspiring marketers in building effective digital marketing portfolios by providing constructive feedback and inspiration.",
     buttonText: "More detail",
     buttonLink: "#",
+    // individual page details below
+    objective:
+      "To create a YouTube channel dedicated to assisting digital marketing students, graduates, and aspiring marketers in building effective digital marketing portfolios by providing constructive feedback and inspiration.",
+    approach: [
+      "1. Content Focus: Produced YouTube videos focusing on reviewing digital marketing portfolios submitted by viewers, aiming to provide constructive feedback and inspiration for portfolio creation.",
+      "2. Target Audience Engagement: Tailored content specifically for digital marketing students, graduates, and aspiring marketers, addressing their unique challenges and needs in portfolio development.",
+      "3. Educational Value: Ensured each video provided educational value by offering practical tips, insights, and examples to help viewers improve their portfolio presentation and content.",
+      "4. Interactive Format: Encouraged audience participation by inviting viewers to submit their portfolios for review, fostering a sense of community and engagement on the channel.",
+      "5. Consistent Upload Schedule: Maintained a consistent upload schedule, releasing new videos regularly to keep viewers engaged and coming back for more content.",
+    ],
+    results: [
+      "1. Audience Growth: Achieved over 1,000 subscribers and 50,000+ views on the YouTube channel, indicating significant audience interest and engagement.",
+      "2. Positive Feedback: Received positive feedback from viewers appreciating the constructive feedback provided in portfolio reviews and finding inspiration in showcased examples.",
+      "3. Community Engagement: Fostered a supportive community of digital marketing students and professionals, encouraging collaboration and knowledge-sharing among viewers.",
+      "4. Educational Impact: Helped digital marketing students and aspiring marketers improve their portfolio-building skills and confidence, empowering them to pursue career opportunities in the field.",
+      "5. Brand Building: Established the YouTube channel as a trusted resource for digital marketing portfolio advice and inspiration, enhancing personal branding and credibility within the industry.",
+    ],
+    imageOne: "/public/Project Image.png",
+    imageTwo: "/public/Project Image.png",
   },
   {
     id: 8,
+    slug: "graphic-designs",
     image: "/public/Project Image.png",
     title: "Graphic Designs",
     text: "Here I show off my graphical designs for social media and other forms of content",
     buttonText: "More detail",
     buttonLink: "#",
+    // individual page details below
+    objective: "Please add",
+    approach: [
+      "1. Content Focus: Produced YouTube videos focusing on reviewing digital marketing portfolios submitted by viewers, aiming to provide constructive feedback and inspiration for portfolio creation.",
+      "2. Target Audience Engagement: Tailored content specifically for digital marketing students, graduates, and aspiring marketers, addressing their unique challenges and needs in portfolio development.",
+      "3. Educational Value: Ensured each video provided educational value by offering practical tips, insights, and examples to help viewers improve their portfolio presentation and content.",
+      "4. Interactive Format: Encouraged audience participation by inviting viewers to submit their portfolios for review, fostering a sense of community and engagement on the channel.",
+      "5. Consistent Upload Schedule: Maintained a consistent upload schedule, releasing new videos regularly to keep viewers engaged and coming back for more content.",
+    ],
+    results: [
+      "1. Audience Growth: Achieved over 1,000 subscribers and 50,000+ views on the YouTube channel, indicating significant audience interest and engagement.",
+      "2. Positive Feedback: Received positive feedback from viewers appreciating the constructive feedback provided in portfolio reviews and finding inspiration in showcased examples.",
+      "3. Community Engagement: Fostered a supportive community of digital marketing students and professionals, encouraging collaboration and knowledge-sharing among viewers.",
+      "4. Educational Impact: Helped digital marketing students and aspiring marketers improve their portfolio-building skills and confidence, empowering them to pursue career opportunities in the field.",
+      "5. Brand Building: Established the YouTube channel as a trusted resource for digital marketing portfolio advice and inspiration, enhancing personal branding and credibility within the industry.",
+    ],
+    imageOne: "/public/Project Image.png",
+    imageTwo: "/public/Project Image.png",
   },
 ];
 

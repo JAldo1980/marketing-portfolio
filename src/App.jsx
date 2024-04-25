@@ -9,6 +9,7 @@ import Contact from "./components/Contact";
 import CTA from "./components/CTA";
 import Footer from "./components/Footer";
 import DevCTA from "./components/DevCTA";
+import ProjectPage from "./components/ProjectPage"; // Import IndividualProject
 import "./App.css";
 
 function App() {
@@ -20,8 +21,9 @@ function App() {
           <Hero />
           <Routes>
             <Route path="/" element={<About />} />
-            <Route path="/Portfolio" element={<Portfolio />} />
-            <Route path="/Contact" element={<Contact />} />
+            <Route path="/portfolio" element={<Portfolio />} />
+            <Route path="/portfolio/:slug" element={<ProjectPage />} />{" "}
+            <Route path="/contact" element={<Contact />} />
           </Routes>
           <CTA />
           <DevCTA />

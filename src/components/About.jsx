@@ -10,7 +10,7 @@ const About = () => {
           <h2 className="mt-6 text-4xl sm:text-5xl text-customBlue font-bold">
             About
           </h2>
-          <div className="flex flex-col gap-4">
+          <div className="flex flex-col gap-6">
             <div className="mt-2">
               Welcome! As a seasoned, qualified digital marketer, including SEO
               content management and award-winning start-up experience, I bring
@@ -55,7 +55,7 @@ const About = () => {
           <img
             src="/public/james-profile-one.png"
             alt="james alderman profile picture"
-            className="sm:align-items-center shadow-2xl"
+            className="w-full sm:align-items-center shadow-2xl"
           />
         </div>
       </div>

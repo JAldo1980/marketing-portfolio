@@ -3,7 +3,7 @@ const PortfolioData = [
   {
     id: 1,
     slug: "community-building",
-    image: "/public/Project Image.png",
+    image: "/public/community-building-img.png",
     title: "Community Building",
     text: "Velolock's LOCK8 revolutionised bike sharing through innovative hardware and software integration, offering efficient fleet management and promoting sustainable transportation. This case study delves into the strategic community-building efforts that contributed to the success of LOCK8's crowdfunding campaign on Kickstarter and its recognition as a Tech Crunch Winner in 2013.",
     buttonText: "More detail",
@@ -28,7 +28,7 @@ const PortfolioData = [
   {
     id: 2,
     slug: "seo-expertise",
-    image: "/public/Project Image.png",
+    image: "/public/SEO-expertise-img.png",
     title: "SEO Expertise",
     text: "To enhance the SEO and social media strategies of leading iGaming and bingo affiliate enterprises in the UK, including Foxy Bingo, Mecca Bingo, Gala Bingo, and Paddy Power, thereby improving their online visibility and engagement.",
     buttonText: "More detail",
@@ -59,7 +59,7 @@ const PortfolioData = [
   {
     id: 3,
     slug: "teaching-mentoring",
-    image: "/public/Project Image.png",
+    image: "/public/teaching-mentoring-img.png",
     title: "Elevating Digital Marketing Teaching and Mentoring",
     text: "To enhance the digital skills and knowledge of learners in the field of digital marketing through effective training, coaching, and mentoring.",
     buttonText: "More detail",
@@ -88,7 +88,7 @@ const PortfolioData = [
   {
     id: 4,
     slug: "project-management",
-    image: "/public/Project Image.png",
+    image: "/public/project-managing.png",
     title: "Project Management and Marketing Prowess",
     text: "To integrate digital media and cutting-edge technologies into digital marketing apprenticeships, providing learners with skills aligned with industry demands.",
     buttonText: "More detail",
@@ -115,7 +115,7 @@ const PortfolioData = [
   {
     id: 5,
     slug: "driving-business",
-    image: "/public/Project Image.png",
+    image: "/public/driving-business-img.png",
     title: "Driving Business Growth",
     text: "To lead a unique digital marketing agency towards sustainable business growth by providing strategic leadership, fostering client relationships, and ensuring collaborative efforts internally.",
     buttonText: "More detail",
@@ -145,7 +145,7 @@ const PortfolioData = [
   {
     id: 6,
     slug: "resource-website",
-    image: "/public/Project Image.png",
+    image: "/public/resource-website-img.png",
     title: "Creation of a resource website",
     text: "To create a resourceful website, Atomic Portfolios, aimed at assisting aspiring digital marketers in building effective digital marketing portfolios quickly and efficiently.",
     buttonText: "More detail",

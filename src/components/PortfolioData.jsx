@@ -21,8 +21,8 @@ const PortfolioData = [
       "2. Strong Backer Support: LOCK8 garnered support from 742 backers on Kickstarter, indicating widespread interest and trust in the product and its potential impact on bike sharing and urban mobility.",
       "3. Tech Crunch Winner: The success of LOCK8's crowdfunding campaign and its innovative features earned recognition from Tech Crunch, further enhancing its credibility and visibility within the tech industry.",
     ],
-    imageOne: "/public/Project Image.png",
-    imageTwo: "/public/Project Image.png",
+    imageOne: "/public/lock8.jpeg",
+    imageTwo: "/public/lock8.3.png",
   },
   // NUMBER TWO
   {
@@ -52,8 +52,8 @@ const PortfolioData = [
       "3. Effective Stakeholder Management: Successfully managed relationships with external stakeholders, including digital marketing agencies, ensuring effective collaboration and expanding the company's network and partnerships.",
       "4. Tangible Outcomes: Delivered tangible outcomes through strategic SEO practices and dynamic content initiatives, contributing to the overall success and industry leadership of the enterprise.",
     ],
-    imageOne: "/public/Project Image.png",
-    imageTwo: "/public/Project Image.png",
+    imageOne: "/public/whichbingo-1.png",
+    imageTwo: "/public/whichbingo-2.png",
   },
   // NUMBER THREE
   {
@@ -81,8 +81,8 @@ const PortfolioData = [
       "4. Contributed to critical administration duties, including case load management and session planning, ensuring smooth operations.",
       "5. Facilitated learners' achievement of Maths, English, and ICT functional skills qualifications to meet framework requirements.",
     ],
-    imageOne: "/public/Project Image.png",
-    imageTwo: "/public/Project Image.png",
+    imageOne: "/public/course-design-1.jpg",
+    imageTwo: "/public/course-design-3.png",
   },
   // NUMBER FOUR
   {
@@ -109,8 +109,8 @@ const PortfolioData = [
       "3. Ensured alignment with industry standards and anticipated future demands through careful curriculum design and project management.",
       "4. Equipped learners with focused expertise in key digital marketing areas, preparing them for success in the industry.",
     ],
-    imageOne: "/public/Project Image.png",
-    imageTwo: "/public/Project Image.png",
+    imageOne: "/public/knowledgeweb-one.png",
+    imageTwo: "/public/knowledgeweb-two.png",
   },
   {
     id: 5,
@@ -139,8 +139,8 @@ const PortfolioData = [
       "5. Expertise Access: Provided clients with access to specialist digital marketers, enhancing project precision and instilling confidence in Lead Kinetics' capabilities.",
       "6. Business Impact: Contributed to the success of client businesses by aligning digital marketing strategies with overarching business objectives, fostering sustainable growth and success.",
     ],
-    imageOne: "/public/Project Image.png",
-    imageTwo: "/public/Project Image.png",
+    imageOne: "/public/lead-kinetics-one.png",
+    imageTwo: "/public/lead-kinetics-two.png",
   },
   {
     id: 6,
@@ -167,8 +167,8 @@ const PortfolioData = [
       "4. Increased Awareness: Educational content and blog posts raised awareness about the importance of digital marketing portfolios, attracting more users to the Atomic Portfolios platform.",
       "5. Positive Feedback: Received positive feedback from users who found Atomic Portfolios to be a valuable and time-saving resource in their journey towards securing digital marketing roles.",
     ],
-    imageOne: "/public/Project Image.png",
-    imageTwo: "/public/Project Image.png",
+    imageOne: "/public/atomic-portfolio-one.png",
+    imageTwo: "/public/atomic-portfolio-two.png",
   },
   {
     id: 7,
@@ -195,8 +195,8 @@ const PortfolioData = [
       "4. Educational Impact: Helped digital marketing students and aspiring marketers improve their portfolio-building skills and confidence, empowering them to pursue career opportunities in the field.",
       "5. Brand Building: Established the YouTube channel as a trusted resource for digital marketing portfolio advice and inspiration, enhancing personal branding and credibility within the industry.",
     ],
-    imageOne: "/public/Project Image.png",
-    imageTwo: "/public/Project Image.png",
+    imageOne: "/public/james-camera.jpg",
+    imageTwo: "/public/james-camera-2.jpg",
   },
   {
     id: 8,
@@ -222,8 +222,8 @@ const PortfolioData = [
       "4. Educational Impact: Helped digital marketing students and aspiring marketers improve their portfolio-building skills and confidence, empowering them to pursue career opportunities in the field.",
       "5. Brand Building: Established the YouTube channel as a trusted resource for digital marketing portfolio advice and inspiration, enhancing personal branding and credibility within the industry.",
     ],
-    imageOne: "/public/Project Image.png",
-    imageTwo: "/public/Project Image.png",
+    imageOne: "/public/people power politics-1.png",
+    imageTwo: "/public/graphic-example-2.png",
   },
 ];
 

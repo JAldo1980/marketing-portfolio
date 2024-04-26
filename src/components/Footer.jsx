@@ -29,7 +29,7 @@ const Footer = () => {
         </div>
       </div>
       <div className="mt-6 flex justify-center opacity-50">
-        Built &amp; designed by James Alderman | Digital Marketing Portfolio |
+        Designed &amp; built by James Alderman | Digital Marketing Portfolio |
         2024
       </div>
     </>

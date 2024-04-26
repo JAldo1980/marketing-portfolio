@@ -16,16 +16,20 @@ const CTA = () => {
         </p>
       </div>
       <div className="mt-12 grid grid-cols-2 gap-6 justify-center items-center ">
-        <img
-          src="/public/Graphic Design Examples Cover.png"
-          className="w-full shadow-2xl cursor-pointer"
-          alt=""
-        />
-        <img
-          src="/public/Content Examples Cover.png"
-          className="w-full shadow-2xl cursor-pointer"
-          alt=""
-        />
+        <a href="https://www.canva.com/design/DAGDCdPfpws/_wVrsnP6ncX9l1XErETK2g/view?utm_content=DAGDCdPfpws&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview">
+          <img
+            src="/public/Graphic Design Examples Cover.png"
+            className="w-full shadow-2xl cursor-pointer"
+            alt="james alderman graphic designs"
+          />
+        </a>
+        <a href="https://www.canva.com/design/DAGDIa7pgTc/-NUYsZAazLSeZJGYdYsuSQ/view?utm_content=DAGDIa7pgTc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview#1">
+          <img
+            src="/public/Content Examples Cover.png"
+            className="w-full shadow-2xl cursor-pointer"
+            alt="james alderman content examples"
+          />
+        </a>
       </div>
     </div>
   );

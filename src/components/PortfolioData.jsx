@@ -173,7 +173,7 @@ const PortfolioData = [
   {
     id: 7,
     slug: "youtube-management",
-    image: "/public/Project Image.png",
+    image: "/public/youtube-management-img.png",
     title: "YouTube Management",
     text: "To create a YouTube channel dedicated to assisting digital marketing students, graduates, and aspiring marketers in building effective digital marketing portfolios by providing constructive feedback and inspiration.",
     buttonText: "More detail",
@@ -201,7 +201,7 @@ const PortfolioData = [
   {
     id: 8,
     slug: "graphic-designs",
-    image: "/public/Project Image.png",
+    image: "public/Graphic Design Examples Cover.png",
     title: "Graphic Designs",
     text: "Here I show off my graphical designs for social media and other forms of content",
     buttonText: "More detail",

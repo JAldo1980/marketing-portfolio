@@ -19,7 +19,7 @@ const Nav = () => {
         </Link>
 
         <Link to="/Portfolio" className="hover:text-gray-300 duration-300">
-          Portfolio
+          Experience
         </Link>
         <Link to="/Contact" className="hover:text-gray-300 duration-300">
           Contact

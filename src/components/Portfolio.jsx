@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 const Portfolio = () => {
   return (
     <>
-      <h2 className="mt-12 text-5xl text-customBlue">Portfolio Projects</h2>
+      <h2 className="mt-12 text-5xl text-customBlue">Experiences</h2>
       <div className="mt-12 grid grid-cols-1 gap-6">
         {PortfolioData.map((project) => (
           <div key={project.id} className="flex flex-col sm:flex-row gap-6">

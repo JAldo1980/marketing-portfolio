@@ -5,6 +5,63 @@ import { Link } from "react-router-dom";
 const About = () => {
   return (
     <>
+      <div>
+        <h2 className="mt-6 text-4xl sm:text-5xl text-customBlue font-bold">
+          Skills
+        </h2>
+        <div className="mt-4 flex flex-row flex-wrap gap-4">
+          <img
+            src="/public/LOGO-removebg-preview.png"
+            alt=""
+            className="w-24"
+          />{" "}
+          <img
+            src="/public/LOGO-removebg-preview.png"
+            alt=""
+            className="w-24"
+          />
+          <img
+            src="/public/LOGO-removebg-preview.png"
+            alt=""
+            className="w-24"
+          />
+          <img
+            src="/public/LOGO-removebg-preview.png"
+            alt=""
+            className="w-24"
+          />
+          <img
+            src="/public/LOGO-removebg-preview.png"
+            alt=""
+            className="w-24"
+          />
+          <img
+            src="/public/LOGO-removebg-preview.png"
+            alt=""
+            className="w-24"
+          />
+          <img
+            src="/public/LOGO-removebg-preview.png"
+            alt=""
+            className="w-24"
+          />
+          <img
+            src="/public/LOGO-removebg-preview.png"
+            alt=""
+            className="w-24"
+          />
+          <img
+            src="/public/LOGO-removebg-preview.png"
+            alt=""
+            className="w-24"
+          />
+          <img
+            src="/public/LOGO-removebg-preview.png"
+            alt=""
+            className="w-24"
+          />
+        </div>
+      </div>
       <div className="mt-12 gap-4 grid sm:grid-cols-2 sm:align-items-center ">
         <div className="border-t-2 border-b-2 border-customBlue border-opacity-50 sm:flex sm:flex-col sm:content-center sm:justify-center sm:gap-6">
           <h2 className="mt-6 text-4xl sm:text-5xl text-customBlue font-bold">

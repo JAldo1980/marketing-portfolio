@@ -6,7 +6,7 @@ const About = () => {
   return (
     <>
       <div>
-        <h2 className="mt-6 text-4xl sm:text-5xl text-customBlue font-bold">
+        <h2 className="mt-8 text-4xl sm:text-5xl text-customBlue font-bold">
           Skills
         </h2>
         <div className="mt-4 flex flex-row flex-wrap justify-evenly gap-6">
@@ -154,11 +154,11 @@ const About = () => {
             <div className="mt-2">
               Welcome! As a seasoned, qualified digital marketer, including SEO
               content management and award-winning start-up experience, I bring
-              strategic mindset and creative prowess to my work. With 10+ years
-              of experience in crafting and executing comprehensive marketing
-              strategies, I have successfully overseen end-to-end campaigns,
-              elevated brand presence, and managed the dynamic landscape of
-              social media.
+              a strategic mindset and creative prowess to my work. With 10+
+              years of experience in crafting and executing comprehensive
+              marketing strategies, I have successfully overseen end-to-end
+              campaigns, elevated brand presence, and managed the dynamic
+              landscape of social media.
             </div>
 
             <div>
@@ -180,7 +180,7 @@ const About = () => {
               beyond.
             </div>
 
-            <div>I can't wait to work with you!</div>
+            <div className="font-bold">I can't wait to work with you!</div>
           </div>
 
           <Link to="/Portfolio">

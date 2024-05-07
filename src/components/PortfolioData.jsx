@@ -5,7 +5,7 @@ const PortfolioData = [
     slug: "community-building",
     image: "/public/community-building-img.png",
     title: "Community Building",
-    text: "Velolock's LOCK8 revolutionised bike sharing through innovative hardware and software integration, offering efficient fleet management and promoting sustainable transportation. This case study delves into the strategic community-building efforts that contributed to the success of LOCK8's crowdfunding campaign on Kickstarter and its recognition as a Tech Crunch Winner in 2013.",
+    text: "This case study delves into the strategic community-building efforts that contributed to the success of LOCK8's crowdfunding campaign on Kickstarter and its recognition as a Tech Crunch Winner in 2013.",
     buttonText: "More detail",
     buttonLink: "#",
     // individual page details below
@@ -146,7 +146,7 @@ const PortfolioData = [
     id: 6,
     slug: "resource-website",
     image: "/public/resource-website-img.png",
-    title: "Creation of a resource website",
+    title: "Creation of A Resource Website",
     text: "To create a resourceful website, Atomic Portfolios, aimed at assisting aspiring digital marketers in building effective digital marketing portfolios quickly and efficiently.",
     buttonText: "More detail",
     buttonLink: "#",

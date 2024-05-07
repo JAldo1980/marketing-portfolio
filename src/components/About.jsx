@@ -70,13 +70,40 @@ const About = () => {
           <div className="text-bold bg-customBlue rounded px-4 py-2 text-white">
             UX
           </div>
+          <div className="text-bold bg-customBlue rounded px-4 py-2 text-white">
+            Web Development
+          </div>
+          <div className="text-bold bg-customBlue rounded px-4 py-2 text-white">
+            HTML
+          </div>
+          <div className="text-bold bg-customBlue rounded px-4 py-2 text-white">
+            CSS
+          </div>
+          <div className="text-bold bg-customBlue rounded px-4 py-2 text-white">
+            JavaScript
+          </div>
+          <div className="text-bold bg-customBlue rounded px-4 py-2 text-white">
+            React.JS
+          </div>
+          <div className="text-bold bg-customBlue rounded px-4 py-2 text-white">
+            Git
+          </div>
+          <div className="text-bold bg-customBlue rounded px-4 py-2 text-white">
+            GitHub
+          </div>
+          <div className="text-bold bg-customBlue rounded px-4 py-2 text-white">
+            Node
+          </div>
+          <div className="text-bold bg-customBlue rounded px-4 py-2 text-white">
+            Tailwind
+          </div>
         </div>
 
         <h2 className="mt-8 text-4xl sm:text-5xl text-customBlue font-bold">
           Tools
         </h2>
 
-        <div className="mt-4 flex flex-row flex-wrap justify-evenly">
+        <div className="mt-4 flex flex-row flex-wrap justify-evenly gap-2">
           <img
             src="/public/analytics-logo.png"
             alt="google analytics logo"

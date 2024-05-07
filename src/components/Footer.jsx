@@ -14,15 +14,24 @@ const Footer = () => {
             />
           </Link>
         </div>
-        <div className="flex gap-8 cursor-pointer uppercase">
-          <Link to="/" className="hover:text-gray-300 duration-300">
+        <div className="flex gap-2 cursor-pointer uppercase">
+          <Link
+            to="/"
+            className="mb-6 bg-customGreen mt-4 py-2 px-6 font-bold text-customGray cursor-pointer  shadow-md hover:bg-green-300 hover:duration-300 hover:ease-in-out"
+          >
             Home
           </Link>
 
-          <Link to="/Portfolio" className="hover:text-gray-300 duration-300">
+          <Link
+            to="/Portfolio"
+            className="mb-6 bg-customGreen mt-4 py-2 px-6 font-bold text-customGray cursor-pointer  shadow-md hover:bg-green-300 hover:duration-300 hover:ease-in-out"
+          >
             Portfolio
           </Link>
-          <Link to="/Contact" className="hover:text-gray-300 duration-300">
+          <Link
+            to="/Contact"
+            className="mb-6 bg-customGreen mt-4 py-2 px-6 font-bold text-customGray cursor-pointer  shadow-md hover:bg-green-300 hover:duration-300 hover:ease-in-out"
+          >
             Contact
           </Link>
           {/* Add more links for other pages */}

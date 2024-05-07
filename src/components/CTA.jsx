@@ -8,11 +8,11 @@ const CTA = () => {
       <h2 className="mt-6 text-4xl sm:text-5xl text-customBlue font-bold">
         Testimonials
       </h2>
-      <div className="mt-4 grid grid-cols-2 gap-4">
+      <div className="mt-4 grid sm:grid-cols-2 gap-4">
         {/* testimonial 1 */}
         <div className="bg-customBlue p-3 text-white rounded flex gap-4">
           <img
-            src="/public/head-shot.png"
+            src="/public/star-img.png"
             alt="head-shot"
             className="w-1/5 object-contain rounded"
           />
@@ -27,7 +27,7 @@ const CTA = () => {
         {/* testimonial 2 */}
         <div className="bg-customBlue p-3 text-white rounded flex gap-4">
           <img
-            src="/public/head-shot.png"
+            src="/public/star-img.png"
             alt="head-shot"
             className="w-1/5 object-contain rounded"
           />
@@ -44,7 +44,7 @@ const CTA = () => {
         {/* testimonial 3 */}
         <div className="bg-customBlue p-3 text-white rounded flex gap-4">
           <img
-            src="/public/head-shot.png"
+            src="/public/star-img.png"
             alt="head-shot"
             className="w-1/5 object-contain rounded"
           />
@@ -62,51 +62,51 @@ const CTA = () => {
         {/* testimonial 4 */}
         <div className="bg-customBlue p-3 text-white rounded flex gap-4">
           <img
-            src="/public/head-shot.png"
+            src="/public/star-img.png"
             alt="head-shot"
             className="w-1/5 object-contain rounded"
           />
           <div className="flex flex-col">
             <h3 className="font-bold">Maryam Ahmed</h3>
             <p className="mt-2">
-              James supported me in creating a digital portfolio and was
+              "James supported me in creating a digital portfolio and was
               genuinely curious about how my job search was going and motivated
-              me not to give up!
+              me not to give up!"
             </p>
           </div>
         </div>
         {/* testimonial 5 */}
         <div className="bg-customBlue p-3 text-white rounded flex gap-4">
           <img
-            src="/public/head-shot.png"
+            src="/public/star-img.png"
             alt="head-shot"
             className="w-1/5 object-contain rounded"
           />
           <div className="flex flex-col">
             <h3 className="font-bold">Robb Davis</h3>
             <p className="mt-2">
-              James' approach to marketing is friendly and approachable; he also
-              goes out of his way to reply to my emails at the crack of dawn,
-              answering any further questions or recommending marketing tools.
-              I've since landed a permanent role, and I don't think I could have
-              done it without the help of James
+              "James' approach to marketing is friendly and approachable; he
+              also goes out of his way to reply to my emails at the crack of
+              dawn, answering any further questions or recommending marketing
+              tools. I've since landed a permanent role, and I don't think I
+              could have done it without the help of James."
             </p>
           </div>
         </div>
         {/* testimonial 6 */}
         <div className="bg-customBlue p-3 text-white rounded flex gap-4">
           <img
-            src="/public/head-shot.png"
+            src="/public/star-img.png"
             alt="head-shot"
             className="w-1/5 object-contain rounded"
           />
           <div className="flex flex-col">
             <h3 className="font-bold">Valentina Wallace</h3>
             <p className="mt-2">
-              James was very resourceful, I had learned a lot from him,
+              "James was very resourceful, I had learned a lot from him,
               especially as a recent graduate who had limited experience of
               digital marketing at the time, and thanks to him I was able to
-              embark on a career within the industry!
+              embark on a career within the industry!"
             </p>
           </div>
         </div>

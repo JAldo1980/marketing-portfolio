@@ -9,56 +9,139 @@ const About = () => {
         <h2 className="mt-6 text-4xl sm:text-5xl text-customBlue font-bold">
           Skills
         </h2>
-        <div className="mt-4 flex flex-row flex-wrap gap-4">
+        <div className="mt-4 flex flex-row flex-wrap justify-evenly gap-6">
+          <div className="text-bold bg-customBlue rounded px-4 py-2 text-white">
+            SEO
+          </div>
+          <div className="text-bold bg-customBlue rounded px-4 py-2 text-white">
+            Data Analytics
+          </div>
+          <div className="text-bold bg-customBlue rounded px-4 py-2 text-white">
+            Strategic Planning
+          </div>
+          <div className="text-bold bg-customBlue rounded px-4 py-2 text-white">
+            Content Creation
+          </div>
+          <div className="text-bold bg-customBlue rounded px-4 py-2 text-white">
+            Strategic Planning
+          </div>
+          <div className="text-bold bg-customBlue rounded px-4 py-2 text-white">
+            Social Media Marketing
+          </div>
+          <div className="text-bold bg-customBlue rounded px-4 py-2 text-white">
+            Social Media Optimisation
+          </div>
+          <div className="text-bold bg-customBlue rounded px-4 py-2 text-white">
+            Email Marketing
+          </div>
+          <div className="text-bold bg-customBlue rounded px-4 py-2 text-white">
+            Copy Writing
+          </div>
+          <div className="text-bold bg-customBlue rounded px-4 py-2 text-white">
+            Graphic Design
+          </div>
+          <div className="text-bold bg-customBlue rounded px-4 py-2 text-white">
+            Web Design
+          </div>
+          <div className="text-bold bg-customBlue rounded px-4 py-2 text-white">
+            WordPress
+          </div>
+          <div className="text-bold bg-customBlue rounded px-4 py-2 text-white">
+            CRM
+          </div>
+          <div className="text-bold bg-customBlue rounded px-4 py-2 text-white">
+            Video Editing
+          </div>
+          <div className="text-bold bg-customBlue rounded px-4 py-2 text-white">
+            Podcast Editing
+          </div>
+          <div className="text-bold bg-customBlue rounded px-4 py-2 text-white">
+            Marketing Automation
+          </div>
+          <div className="text-bold bg-customBlue rounded px-4 py-2 text-white">
+            Brand Development
+          </div>
+          <div className="text-bold bg-customBlue rounded px-4 py-2 text-white">
+            A.I Utilisation
+          </div>
+          <div className="text-bold bg-customBlue rounded px-4 py-2 text-white">
+            Market Research
+          </div>
+          <div className="text-bold bg-customBlue rounded px-4 py-2 text-white">
+            UX
+          </div>
+        </div>
+
+        <h2 className="mt-8 text-4xl sm:text-5xl text-customBlue font-bold">
+          Tools
+        </h2>
+
+        <div className="mt-4 flex flex-row flex-wrap justify-evenly">
           <img
-            src="/public/LOGO-removebg-preview.png"
-            alt=""
-            className="w-24"
-          />{" "}
-          <img
-            src="/public/LOGO-removebg-preview.png"
-            alt=""
-            className="w-24"
+            src="/public/analytics-logo.png"
+            alt="google analytics logo"
+            className="w-16"
+            title="Google Analytics"
           />
           <img
-            src="/public/LOGO-removebg-preview.png"
-            alt=""
-            className="w-24"
+            src="/public/photoshop-logo.png"
+            alt="photoshop-logo"
+            className="w-16"
+            title="PhotoShop"
           />
           <img
-            src="/public/LOGO-removebg-preview.png"
-            alt=""
-            className="w-24"
+            src="/public/canva-logo.png"
+            alt="canva-logo"
+            className="w-16"
+            title="Canva"
           />
           <img
-            src="/public/LOGO-removebg-preview.png"
-            alt=""
-            className="w-24"
+            src="/public/sem-rush-logo.png"
+            alt="sem-rush logo"
+            className="w-16"
+            title="SEM Rush"
           />
           <img
-            src="/public/LOGO-removebg-preview.png"
-            alt=""
-            className="w-24"
+            src="/public/premiere-pro-logo.png"
+            alt="premiere-pro logo"
+            className="w-16"
+            title="Premiere Pro"
           />
           <img
-            src="/public/LOGO-removebg-preview.png"
-            alt=""
-            className="w-24"
+            src="/public/camtasia-logo.png"
+            alt="camtasia-logo"
+            className="w-16"
+            title="Camtasia"
           />
           <img
-            src="/public/LOGO-removebg-preview.png"
-            alt=""
-            className="w-24"
+            src="/public/audacity-logo.png"
+            alt="audacity-logo"
+            className="w-16"
+            title="Audacity"
           />
           <img
-            src="/public/LOGO-removebg-preview.png"
-            alt=""
-            className="w-24"
+            src="/public/mailchimp-logo.png"
+            alt="mailchimp logo"
+            className="w-16"
+            title="Mailchimp"
           />
           <img
-            src="/public/LOGO-removebg-preview.png"
-            alt=""
-            className="w-24"
+            src="/public/buffer-logo.png"
+            alt="buffer-logo"
+            className="w-16"
+            title="Buffer"
+          />
+          <img
+            src="/public/hootsuite-logo.png"
+            alt="hootsuite logo"
+            className="w-16"
+            title="Hootsuite"
+          />
+          <img
+            src="/public/wordpress-logo.png"
+            alt="wordpress logo"
+            className="w-16"
+            title="WordPress"
           />
         </div>
       </div>

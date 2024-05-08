@@ -8,6 +8,7 @@ const PortfolioData = [
     text: "This case study delves into the strategic community-building efforts that contributed to the success of LOCK8's crowdfunding campaign on Kickstarter and its recognition as a Tech Crunch Winner in 2013.",
     buttonText: "More detail",
     buttonLink: "#",
+    techUsed: "Social Media | Guerrilla Marketing | Crowd Funding",
     // individual page details below
     objective:
       "To cultivate an engaged community of cycling and tech enthusiasts, generate buzz around LOCK8, and surpass the crowdfunding goal on Kickstarter.",
@@ -33,6 +34,7 @@ const PortfolioData = [
     text: "To enhance the SEO and social media strategies of leading iGaming and bingo affiliate enterprises in the UK, including Foxy Bingo, Mecca Bingo, Gala Bingo, and Paddy Power, thereby improving their online visibility and engagement.",
     buttonText: "More detail",
     buttonLink: "#",
+    techUsed: "Data Analysis | Google Analytics | SEMRush",
     // individual page details below
     objective:
       "To enhance the SEO and social media strategies of leading iGaming and bingo affiliate enterprises in the UK, including Foxy Bingo, Mecca Bingo, Gala Bingo, and Paddy Power, thereby improving their online visibility and engagement.",
@@ -60,10 +62,11 @@ const PortfolioData = [
     id: 3,
     slug: "teaching-mentoring",
     image: "/public/teaching-mentoring-img.png",
-    title: "Elevating Digital Marketing Teaching and Mentoring",
+    title: "Marketing Teaching & Mentoring",
     text: "To enhance the digital skills and knowledge of learners in the field of digital marketing through effective training, coaching, and mentoring.",
     buttonText: "More detail",
     buttonLink: "#",
+    techUsed: "Classroom Delivery | Professional Development",
     // individual page details below
     objective:
       "To enhance the digital skills and knowledge of learners in the field of digital marketing through effective training, coaching, and mentoring.",
@@ -89,10 +92,11 @@ const PortfolioData = [
     id: 4,
     slug: "project-management",
     image: "/public/project-managing.png",
-    title: "Project Management and Marketing Prowess",
+    title: "Project Management",
     text: "To integrate digital media and cutting-edge technologies into digital marketing apprenticeships, providing learners with skills aligned with industry demands.",
     buttonText: "More detail",
     buttonLink: "#",
+    techUsed: "Development & Planning of Learning Solutions",
     // individual page details below
     objective:
       "To integrate digital media and cutting-edge technologies into digital marketing apprenticeships, providing learners with skills aligned with industry demands.",
@@ -120,6 +124,7 @@ const PortfolioData = [
     text: "To lead a unique digital marketing agency towards sustainable business growth by providing strategic leadership, fostering client relationships, and ensuring collaborative efforts internally.",
     buttonText: "More detail",
     buttonLink: "#",
+    techUsed: "Strategic Leadership | Client Relationship Management",
     // individual page details below
     objective:
       "To lead a unique digital marketing agency towards sustainable business growth by providing strategic leadership, fostering client relationships, and ensuring collaborative efforts internally.",
@@ -146,10 +151,11 @@ const PortfolioData = [
     id: 6,
     slug: "resource-website",
     image: "/public/resource-website-img.png",
-    title: "Creation of A Resource Website",
+    title: "Resource Website",
     text: "To create a resourceful website, Atomic Portfolios, aimed at assisting aspiring digital marketers in building effective digital marketing portfolios quickly and efficiently.",
     buttonText: "More detail",
     buttonLink: "#",
+    techUsed: "Interactive Support | User-centric Design",
     // individual page details below
     objective:
       "To lead a unique digital marketing agency towards sustainable business growth by providing strategic leadership, fostering client relationships, and ensuring collaborative efforts internally.",
@@ -178,6 +184,7 @@ const PortfolioData = [
     text: "To create a YouTube channel dedicated to assisting digital marketing students, graduates, and aspiring marketers in building effective digital marketing portfolios by providing constructive feedback and inspiration.",
     buttonText: "More detail",
     buttonLink: "#",
+    techUsed: "Community Engagement | Audience Growth | Brand Building",
     // individual page details below
     objective:
       "To create a YouTube channel dedicated to assisting digital marketing students, graduates, and aspiring marketers in building effective digital marketing portfolios by providing constructive feedback and inspiration.",
@@ -206,6 +213,7 @@ const PortfolioData = [
     text: "Here I show off my graphical designs for social media and other forms of content",
     buttonText: "More detail",
     buttonLink: "#",
+    techUsed: "Adobe CC | Canva | Content Creation",
     // individual page details below
     objective: "Please add",
     approach: [

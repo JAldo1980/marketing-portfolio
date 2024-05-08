@@ -20,7 +20,8 @@ const Portfolio = () => {
               className="w-full h-auto sm:w-32 sm:h-32 object-cover shadow-2xl"
             />
             <div className="flex flex-col justify-center gap-6">
-              <h2 className="text-3xl text-customBlue">{project.title}</h2>
+              <h4 className="text-2xl text-customBlue">{project.title}</h4>
+              <p className="text-xs font-bold">{project.techUsed}</p>
               <p>{project.text}</p>
 
               {/* Use Link component for navigation */}

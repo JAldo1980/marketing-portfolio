@@ -8,7 +8,56 @@ const Portfolio = () => {
       <h2 className="mt-8 text-4xl sm:text-5xl text-customBlue font-bold">
         Experiences
       </h2>
-      <div className="mt-12 grid grid-cols-1 md:grid-cols-2 gap-6">
+      <div>
+        <h4 className="mt-8 text-2xl text-customBlue">Roles Held</h4>
+        <div className="mt-4 flex flex-row flex-wrap justify-evenly gap-6">
+          <p className="text-bold custom-tab rounded px-4 py-2 text-white">
+            Co-founder &amp; Director
+          </p>
+          <p className="text-bold custom-tab rounded px-4 py-2 text-white">
+            Head of Digital
+          </p>
+          <p className="text-bold custom-tab rounded px-4 py-2 text-white">
+            Content SEO &amp; Social Media Manager
+          </p>
+          <p className="text-bold custom-tab rounded px-4 py-2 text-white">
+            Digital Marketer Trainer
+          </p>
+          <p className="text-bold custom-tab rounded px-4 py-2 text-white">
+            Digital Marketing Executive
+          </p>
+          <p className="text-bold custom-tab rounded px-4 py-2 text-white">
+            Community Manager
+          </p>
+          <p className="text-bold custom-tab rounded px-4 py-2 text-white">
+            Frontend Web Developer
+          </p>
+        </div>
+      </div>
+      <div>
+        <h4 className="mt-8 text-2xl text-customBlue">Companies Worked For</h4>
+        <div className="mt-4 flex flex-row flex-wrap justify-evenly gap-6">
+          <img
+            src="/public/knowledge-web-1.png"
+            alt="knowledge-web"
+            className="w-24"
+          />
+          <img
+            src="/public/which-bingo-1.png"
+            alt="whichbingo"
+            className="w-24"
+          />
+          <img src="/public/lock-8-1.png" alt="lock8" className="w-24" />
+          <img src="/public/babington-1.png" alt="babington" className="w-24" />
+          <img
+            src="/public/Lead_Kinetics-1.png"
+            alt="Lead Kinetics"
+            className="w-24"
+          />
+        </div>
+      </div>
+      <h4 className="mt-12 text-2xl text-customBlue">Samples of Work...</h4>
+      <div className="mt-8 grid grid-cols-1 md:grid-cols-2 gap-6">
         {PortfolioData.map((project) => (
           <div
             key={project.id}

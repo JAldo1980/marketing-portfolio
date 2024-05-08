@@ -10,91 +10,91 @@ const About = () => {
           Skills
         </h2>
         <div className="mt-4 flex flex-row flex-wrap justify-evenly gap-6">
-          <div className="text-bold bg-customBlue rounded px-4 py-2 text-white">
+          <div className="text-bold custom-tab rounded px-4 py-2 text-white">
             SEO
           </div>
-          <div className="text-bold bg-customBlue rounded px-4 py-2 text-white">
+          <div className="text-bold custom-tab rounded px-4 py-2 text-white">
             Data Analytics
           </div>
-          <div className="text-bold bg-customBlue rounded px-4 py-2 text-white">
+          <div className="text-bold custom-tab rounded px-4 py-2 text-white">
             Strategic Planning
           </div>
-          <div className="text-bold bg-customBlue rounded px-4 py-2 text-white">
+          <div className="text-bold custom-tab rounded px-4 py-2 text-white">
             Content Creation
           </div>
-          <div className="text-bold bg-customBlue rounded px-4 py-2 text-white">
+          <div className="text-bold custom-tab rounded px-4 py-2 text-white">
             Strategic Planning
           </div>
-          <div className="text-bold bg-customBlue rounded px-4 py-2 text-white">
+          <div className="text-bold custom-tab rounded px-4 py-2 text-white">
             Social Media Marketing
           </div>
-          <div className="text-bold bg-customBlue rounded px-4 py-2 text-white">
+          <div className="text-bold custom-tab rounded px-4 py-2 text-white">
             Social Media Optimisation
           </div>
-          <div className="text-bold bg-customBlue rounded px-4 py-2 text-white">
+          <div className="text-bold custom-tab rounded px-4 py-2 text-white">
             Email Marketing
           </div>
-          <div className="text-bold bg-customBlue rounded px-4 py-2 text-white">
+          <div className="text-bold custom-tab rounded px-4 py-2 text-white">
             Copy Writing
           </div>
-          <div className="text-bold bg-customBlue rounded px-4 py-2 text-white">
+          <div className="text-bold custom-tab rounded px-4 py-2 text-white">
             Graphic Design
           </div>
-          <div className="text-bold bg-customBlue rounded px-4 py-2 text-white">
+          <div className="text-bold custom-tab rounded px-4 py-2 text-white">
             Web Design
           </div>
-          <div className="text-bold bg-customBlue rounded px-4 py-2 text-white">
+          <div className="text-bold custom-tab rounded px-4 py-2 text-white">
             WordPress
           </div>
-          <div className="text-bold bg-customBlue rounded px-4 py-2 text-white">
+          <div className="text-bold custom-tab rounded px-4 py-2 text-white">
             CRM
           </div>
-          <div className="text-bold bg-customBlue rounded px-4 py-2 text-white">
+          <div className="text-bold custom-tab rounded px-4 py-2 text-white">
             Video Editing
           </div>
-          <div className="text-bold bg-customBlue rounded px-4 py-2 text-white">
+          <div className="text-bold custom-tab rounded px-4 py-2 text-white">
             Podcast Editing
           </div>
-          <div className="text-bold bg-customBlue rounded px-4 py-2 text-white">
+          <div className="text-bold custom-tab rounded px-4 py-2 text-white">
             Marketing Automation
           </div>
-          <div className="text-bold bg-customBlue rounded px-4 py-2 text-white">
+          <div className="text-bold custom-tab rounded px-4 py-2 text-white">
             Brand Development
           </div>
-          <div className="text-bold bg-customBlue rounded px-4 py-2 text-white">
+          <div className="text-bold custom-tab rounded px-4 py-2 text-white">
             A.I Utilisation
           </div>
-          <div className="text-bold bg-customBlue rounded px-4 py-2 text-white">
+          <div className="text-bold custom-tab rounded px-4 py-2 text-white">
             Market Research
           </div>
-          <div className="text-bold bg-customBlue rounded px-4 py-2 text-white">
+          <div className="text-bold custom-tab rounded px-4 py-2 text-white">
             UX
           </div>
-          <div className="text-bold bg-customBlue rounded px-4 py-2 text-white">
+          <div className="text-bold custom-tab rounded px-4 py-2 text-white">
             Web Development
           </div>
-          <div className="text-bold bg-customBlue rounded px-4 py-2 text-white">
+          <div className="text-bold custom-tab rounded px-4 py-2 text-white">
             HTML
           </div>
-          <div className="text-bold bg-customBlue rounded px-4 py-2 text-white">
+          <div className="text-bold custom-tab rounded px-4 py-2 text-white">
             CSS
           </div>
-          <div className="text-bold bg-customBlue rounded px-4 py-2 text-white">
+          <div className="text-bold custom-tab rounded px-4 py-2 text-white">
             JavaScript
           </div>
-          <div className="text-bold bg-customBlue rounded px-4 py-2 text-white">
+          <div className="text-bold custom-tab rounded px-4 py-2 text-white">
             React.JS
           </div>
-          <div className="text-bold bg-customBlue rounded px-4 py-2 text-white">
+          <div className="text-bold custom-tab rounded px-4 py-2 text-white">
             Git
           </div>
-          <div className="text-bold bg-customBlue rounded px-4 py-2 text-white">
+          <div className="text-bold custom-tab rounded px-4 py-2 text-white">
             GitHub
           </div>
-          <div className="text-bold bg-customBlue rounded px-4 py-2 text-white">
+          <div className="text-bold custom-tab rounded px-4 py-2 text-white">
             Node
           </div>
-          <div className="text-bold bg-customBlue rounded px-4 py-2 text-white">
+          <div className="text-bold custom-tab rounded px-4 py-2 text-white">
             Tailwind
           </div>
         </div>

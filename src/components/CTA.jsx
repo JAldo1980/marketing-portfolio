@@ -119,7 +119,7 @@ const CTA = () => {
           </h3>
           <p className="mt-4">
             Click the boxes below to open up a new window and explore some of
-            the work I've created over that past few years.
+            the work I've created over the past few years.
           </p>
         </div>
         <div className="mt-12 grid grid-cols-2 gap-6 justify-center items-center ">

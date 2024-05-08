@@ -5,7 +5,9 @@ import { Link } from "react-router-dom";
 const Portfolio = () => {
   return (
     <>
-      <h2 className="mt-12 text-5xl text-customBlue">Experiences</h2>
+      <h2 className="mt-8 text-4xl sm:text-5xl text-customBlue font-bold">
+        Experiences
+      </h2>
       <div className="mt-12 grid grid-cols-1 md:grid-cols-2 gap-6">
         {PortfolioData.map((project) => (
           <div

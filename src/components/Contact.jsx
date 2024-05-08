@@ -4,7 +4,9 @@ const Contact = () => {
   return (
     <>
       <div>
-        <h2 className="mt-12 text-5xl">Contact</h2>
+        <h2 className="mt-8 text-4xl sm:text-5xl text-customBlue font-bold">
+          Contact
+        </h2>
         <div className="mt-6">
           <div>
             <p>

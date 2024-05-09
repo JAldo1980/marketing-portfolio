@@ -7,7 +7,7 @@ const Nav = () => {
       <div>
         <Link to="/">
           <img
-            src="/public/james-alderman-logo__1_-removebg-preview.png"
+            src="james-alderman-logo__1_-removebg-preview.png"
             alt="james alderman logo"
             className="w-16 cursor-pointer"
           />

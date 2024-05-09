@@ -17,7 +17,7 @@ const DevCTA = () => {
           target="_blank"
         >
           <img
-            src="/public/DevCTA-img.png"
+            src="DevCTA-img.png"
             alt="James Alderman digital marketing portfolio"
             className="mt-4 shadow-md cursor-pointer"
           />

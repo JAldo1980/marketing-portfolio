@@ -19,8 +19,6 @@ const IndividualProject = () => {
       <h2 className="mt-12 text-5xl text-customBlue">{project.title}</h2>
       <div className="mt-6 flex flex-col">
         <div>
-          <p>{project.text}</p>
-
           <h3 className="mt-6 text-3xl text-customBlue">Objective</h3>
           <p className="mt-3">{project.objective}</p>
 

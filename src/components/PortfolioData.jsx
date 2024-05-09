@@ -215,7 +215,8 @@ const PortfolioData = [
     buttonLink: "#",
     techUsed: "Adobe CC | Canva | Content Creation",
     // individual page details below
-    objective: "Please add",
+    objective:
+      "Here I show off my graphical designs for social media and other forms of content.",
     approach: [
       "1. Content Focus: Produced YouTube videos focusing on reviewing digital marketing portfolios submitted by viewers, aiming to provide constructive feedback and inspiration for portfolio creation.",
       "2. Target Audience Engagement: Tailored content specifically for digital marketing students, graduates, and aspiring marketers, addressing their unique challenges and needs in portfolio development.",

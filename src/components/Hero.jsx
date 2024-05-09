@@ -3,15 +3,15 @@ import React, { useState, useEffect } from "react";
 
 const Hero = () => {
   const [imageSource, setImageSource] = useState(
-    "/public/tablet-main-banner.png"
+    "tablet-main-banner.png"
   );
 
   useEffect(() => {
     const handleResize = () => {
       if (window.innerWidth < 640) {
-        setImageSource("/public/tablet-main-banner.png");
+        setImageSource("tablet-main-banner.png");
       } else {
-        setImageSource("/public/desktop-main-banner.png");
+        setImageSource("desktop-main-banner.png");
       }
     };
 

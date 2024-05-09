@@ -105,7 +105,7 @@ const About = () => {
 
         <div className="mt-4 flex flex-row flex-wrap justify-evenly gap-2">
           <img
-            src="public/analytics-logo.png"
+            src="analytics-logo.png"
             alt="google analytics logo"
             className="w-16"
             title="Google Analytics"

@@ -111,61 +111,61 @@ const About = () => {
             title="Google Analytics"
           />
           <img
-            src="/public/photoshop-logo.png"
+            src="photoshop-logo.png"
             alt="photoshop-logo"
             className="w-16"
             title="PhotoShop"
           />
           <img
-            src="/public/canva-logo.png"
+            src="canva-logo.png"
             alt="canva-logo"
             className="w-16"
             title="Canva"
           />
           <img
-            src="/public/sem-rush-logo.png"
+            src="sem-rush-logo.png"
             alt="sem-rush logo"
             className="w-16"
             title="SEM Rush"
           />
           <img
-            src="/public/premiere-pro-logo.png"
+            src="premiere-pro-logo.png"
             alt="premiere-pro logo"
             className="w-16"
             title="Premiere Pro"
           />
           <img
-            src="/public/camtasia-logo.png"
+            src="camtasia-logo.png"
             alt="camtasia-logo"
             className="w-16"
             title="Camtasia"
           />
           <img
-            src="/public/audacity-logo.png"
+            src="audacity-logo.png"
             alt="audacity-logo"
             className="w-16"
             title="Audacity"
           />
           <img
-            src="/public/mailchimp-logo.png"
+            src="mailchimp-logo.png"
             alt="mailchimp logo"
             className="w-16"
             title="Mailchimp"
           />
           <img
-            src="/public/buffer-logo.png"
+            src="buffer-logo.png"
             alt="buffer-logo"
             className="w-16"
             title="Buffer"
           />
           <img
-            src="/public/hootsuite-logo.png"
+            src="hootsuite-logo.png"
             alt="hootsuite logo"
             className="w-16"
             title="Hootsuite"
           />
           <img
-            src="/public/wordpress-logo.png"
+            src="wordpress-logo.png"
             alt="wordpress logo"
             className="w-16"
             title="WordPress"
@@ -220,7 +220,7 @@ const About = () => {
         </div>
         <div className="sm:content-center sm:order-first">
           <img
-            src="/public/james-profile-one.png"
+            src="james-profile-one.png"
             alt="james alderman profile picture"
             className="w-full sm:align-items-center shadow-2xl"
           />

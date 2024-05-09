@@ -12,7 +12,7 @@ const CTA = () => {
         {/* testimonial 1 */}
         <div className="bg-customBlue p-3 text-white rounded flex gap-4">
           <img
-            src="/public/star-img.png"
+            src="star-img.png"
             alt="head-shot"
             className="w-1/5 object-contain rounded"
           />
@@ -27,7 +27,7 @@ const CTA = () => {
         {/* testimonial 2 */}
         <div className="bg-customBlue p-3 text-white rounded flex gap-4">
           <img
-            src="/public/star-img.png"
+            src="star-img.png"
             alt="head-shot"
             className="w-1/5 object-contain rounded"
           />
@@ -44,7 +44,7 @@ const CTA = () => {
         {/* testimonial 3 */}
         <div className="bg-customBlue p-3 text-white rounded flex gap-4">
           <img
-            src="/public/star-img.png"
+            src="star-img.png"
             alt="head-shot"
             className="w-1/5 object-contain rounded"
           />
@@ -62,7 +62,7 @@ const CTA = () => {
         {/* testimonial 4 */}
         <div className="bg-customBlue p-3 text-white rounded flex gap-4">
           <img
-            src="/public/star-img.png"
+            src="star-img.png"
             alt="head-shot"
             className="w-1/5 object-contain rounded"
           />
@@ -78,7 +78,7 @@ const CTA = () => {
         {/* testimonial 5 */}
         <div className="bg-customBlue p-3 text-white rounded flex gap-4">
           <img
-            src="/public/star-img.png"
+            src="star-img.png"
             alt="head-shot"
             className="w-1/5 object-contain rounded"
           />
@@ -96,7 +96,7 @@ const CTA = () => {
         {/* testimonial 6 */}
         <div className="bg-customBlue p-3 text-white rounded flex gap-4">
           <img
-            src="/public/star-img.png"
+            src="star-img.png"
             alt="head-shot"
             className="w-1/5 object-contain rounded"
           />
@@ -125,14 +125,14 @@ const CTA = () => {
         <div className="mt-12 grid grid-cols-2 gap-6 justify-center items-center ">
           <a href="https://www.canva.com/design/DAGDCdPfpws/_wVrsnP6ncX9l1XErETK2g/view?utm_content=DAGDCdPfpws&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview">
             <img
-              src="/public/Graphic Design Examples Cover.png"
+              src="Graphic Design Examples Cover.png"
               className="w-full shadow-2xl cursor-pointer"
               alt="james alderman graphic designs"
             />
           </a>
           <a href="https://www.canva.com/design/DAGDIa7pgTc/-NUYsZAazLSeZJGYdYsuSQ/view?utm_content=DAGDIa7pgTc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview#1">
             <img
-              src="/public/Content Examples Cover.png"
+              src="Content Examples Cover.png"
               className="w-full shadow-2xl cursor-pointer"
               alt="james alderman content examples"
             />

@@ -38,19 +38,19 @@ const Portfolio = () => {
         <h4 className="mt-8 text-2xl text-customBlue">Companies Worked For</h4>
         <div className="mt-4 flex flex-row flex-wrap justify-evenly gap-6">
           <img
-            src="/public/knowledge-web-1.png"
+            src="knowledge-web-1.png"
             alt="knowledge-web"
             className="w-24"
           />
           <img
-            src="/public/which-bingo-1.png"
+            src="which-bingo-1.png"
             alt="whichbingo"
             className="w-24"
           />
-          <img src="/public/lock-8-1.png" alt="lock8" className="w-24" />
-          <img src="/public/babington-1.png" alt="babington" className="w-24" />
+          <img src="lock-8-1.png" alt="lock8" className="w-24" />
+          <img src="babington-1.png" alt="babington" className="w-24" />
           <img
-            src="/public/Lead_Kinetics-1.png"
+            src="Lead_Kinetics-1.png"
             alt="Lead Kinetics"
             className="w-24"
           />

@@ -1,30 +1,6 @@
 const PortfolioData = [
     // NUMBER ONE
-  {
-    id: 1,
-    slug: "community-building",
-    image: "community-building-img.png",
-    title: "Community Building",
-    text: "This case study delves into the strategic community-building efforts that contributed to the success of LOCK8's crowdfunding campaign on Kickstarter and its recognition as a Tech Crunch Winner in 2013.",
-    buttonText: "More detail",
-    buttonLink: "#",
-    techUsed: "Social Media | Guerrilla Marketing | Crowd Funding",
-    // individual page details below
-    objective:
-      "To cultivate an engaged community of cycling and tech enthusiasts, generate buzz around LOCK8, and surpass the crowdfunding goal on Kickstarter.",
-    approach: [
-      "1. Social Media Engagement: Utilised Twitter and Facebook to build a vibrant community of followers passionate about cycling and technology. Regular updates, engaging content, and interactive discussions fostered a sense of belonging and excitement around LOCK8",
-      "2. Guerrilla Marketing Tactics: Deployed creative guerrilla marketing strategies to generate buzz and intrigue surrounding LOCK8. Eye-catching street installations, guerrilla advertising, and viral campaigns sparked curiosity and anticipation among the target audience",
-      "3. Crowdfunding Campaign on Kickstarter: Directed the engaged community towards the LOCK8 crowdfunding campaign on Kickstarter. Utilised compelling storytelling, persuasive messaging, and exclusive perks to incentivise backers to support the project",
-    ],
-    results: [
-      "1. Exceeded Stretch Goal: Despite setting a stretch goal of 40,000 euros on Kickstarter, LOCK8 surpassed expectations by achieving a total funding of 60,000 euros. This remarkable feat demonstrates the effectiveness of community engagement and strategic marketing efforts.",
-      "2. Strong Backer Support: LOCK8 garnered support from 742 backers on Kickstarter, indicating widespread interest and trust in the product and its potential impact on bike sharing and urban mobility.",
-      "3. Tech Crunch Winner: The success of LOCK8's crowdfunding campaign and its innovative features earned recognition from Tech Crunch, further enhancing its credibility and visibility within the tech industry.",
-    ],
-    imageOne: "lock8.jpeg",
-    imageTwo: "lock8.3.png",
-  },
+
   // NUMBER TWO
   {
     id: 2,

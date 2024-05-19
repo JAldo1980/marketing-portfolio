@@ -1,5 +1,5 @@
 const PortfolioData = [
-  // NUMBER ONE
+    // NUMBER ONE
   {
     id: 1,
     slug: "community-building",
@@ -28,6 +28,32 @@ const PortfolioData = [
   // NUMBER TWO
   {
     id: 2,
+    slug: "community-building",
+    image: "community-building-img.png",
+    title: "Community Building",
+    text: "This case study delves into the strategic community-building efforts that contributed to the success of LOCK8's crowdfunding campaign on Kickstarter and its recognition as a Tech Crunch Winner in 2013.",
+    buttonText: "More detail",
+    buttonLink: "#",
+    techUsed: "Social Media | Guerrilla Marketing | Crowd Funding",
+    // individual page details below
+    objective:
+      "To cultivate an engaged community of cycling and tech enthusiasts, generate buzz around LOCK8, and surpass the crowdfunding goal on Kickstarter.",
+    approach: [
+      "1. Social Media Engagement: Utilised Twitter and Facebook to build a vibrant community of followers passionate about cycling and technology. Regular updates, engaging content, and interactive discussions fostered a sense of belonging and excitement around LOCK8",
+      "2. Guerrilla Marketing Tactics: Deployed creative guerrilla marketing strategies to generate buzz and intrigue surrounding LOCK8. Eye-catching street installations, guerrilla advertising, and viral campaigns sparked curiosity and anticipation among the target audience",
+      "3. Crowdfunding Campaign on Kickstarter: Directed the engaged community towards the LOCK8 crowdfunding campaign on Kickstarter. Utilised compelling storytelling, persuasive messaging, and exclusive perks to incentivise backers to support the project",
+    ],
+    results: [
+      "1. Exceeded Stretch Goal: Despite setting a stretch goal of 40,000 euros on Kickstarter, LOCK8 surpassed expectations by achieving a total funding of 60,000 euros. This remarkable feat demonstrates the effectiveness of community engagement and strategic marketing efforts.",
+      "2. Strong Backer Support: LOCK8 garnered support from 742 backers on Kickstarter, indicating widespread interest and trust in the product and its potential impact on bike sharing and urban mobility.",
+      "3. Tech Crunch Winner: The success of LOCK8's crowdfunding campaign and its innovative features earned recognition from Tech Crunch, further enhancing its credibility and visibility within the tech industry.",
+    ],
+    imageOne: "lock8.jpeg",
+    imageTwo: "lock8.3.png",
+  },
+  // NUMBER THREE
+  {
+    id: 3,
     slug: "seo-expertise",
     image: "SEO-expertise-img.png",
     title: "SEO Expertise",
@@ -57,9 +83,9 @@ const PortfolioData = [
     imageOne: "whichbingo-1.png",
     imageTwo: "whichbingo-2.png",
   },
-  // NUMBER THREE
+  // NUMBER FOUR
   {
-    id: 3,
+    id: 4,
     slug: "teaching-mentoring",
     image: "teaching-mentoring-img.png",
     title: "Marketing Teaching & Mentoring",
@@ -87,9 +113,9 @@ const PortfolioData = [
     imageOne: "course-design-1.jpg",
     imageTwo: "course-design-3.png",
   },
-  // NUMBER FOUR
+  // NUMBER FIVE
   {
-    id: 4,
+    id: 5,
     slug: "project-management",
     image: "project-managing.png",
     title: "Project Management",
@@ -116,8 +142,9 @@ const PortfolioData = [
     imageOne: "knowledgeweb-one.png",
     imageTwo: "knowledgeweb-two.png",
   },
+  // NUMBER SIX
   {
-    id: 5,
+    id: 6,
     slug: "driving-business",
     image: "driving-business-img.png",
     title: "Driving Business Growth",
@@ -147,8 +174,9 @@ const PortfolioData = [
     imageOne: "lead-kinetics-one.png",
     imageTwo: "lead-kinetics-two.png",
   },
+  // NUMBER SEVEN
   {
-    id: 6,
+    id: 7,
     slug: "resource-website",
     image: "resource-website-img.png",
     title: "Resource Website",
@@ -176,8 +204,9 @@ const PortfolioData = [
     imageOne: "atomic-portfolio-one.png",
     imageTwo: "atomic-portfolio-two.png",
   },
+  // NUMBER 8
   {
-    id: 7,
+    id: 8,
     slug: "youtube-management",
     image: "youtube-management-img.png",
     title: "YouTube Management",
@@ -205,8 +234,9 @@ const PortfolioData = [
     imageOne: "james-camera.jpg",
     imageTwo: "james-camera-2.jpg",
   },
+  // NUMBER NINE
   {
-    id: 8,
+    id: 9,
     slug: "graphic-designs",
     image: "Graphic Design Examples Cover.png",
     title: "Graphic Designs",

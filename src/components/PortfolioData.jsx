@@ -57,7 +57,7 @@ const PortfolioData = [
       "4. Tangible Outcomes: Delivered tangible outcomes through strategic SEO practices and dynamic content initiatives, contributing to the overall success and industry leadership of the enterprise.",
     ],
     imageOne: "whichbingo-1.png",
-    imageTwo: "public/whichbingo-2.png",
+    imageTwo: "whichbingo-2.png",
   },
   // NUMBER FOUR
   {

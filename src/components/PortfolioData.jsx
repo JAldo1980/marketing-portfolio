@@ -24,8 +24,8 @@ const PortfolioData = [
       "2. Strong Backer Support: LOCK8 garnered support from 742 backers on Kickstarter, indicating widespread interest and trust in the product and its potential impact on bike sharing and urban mobility.",
       "3. Tech Crunch Winner: The success of LOCK8's crowdfunding campaign and its innovative features earned recognition from Tech Crunch, further enhancing its credibility and visibility within the tech industry.",
     ],
-    imageOne: "lock8.jpeg",
-    imageTwo: "lock8.3.png",
+    imageOne: "/lock8.jpeg",
+    imageTwo: "/lock8.3.png",
   },
   // NUMBER THREE
   {

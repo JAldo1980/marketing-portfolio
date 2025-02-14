@@ -56,8 +56,8 @@ const PortfolioData = [
       "3. Effective Stakeholder Management: Successfully managed relationships with external stakeholders, including digital marketing agencies, ensuring effective collaboration and expanding the company's network and partnerships.",
       "4. Tangible Outcomes: Delivered tangible outcomes through strategic SEO practices and dynamic content initiatives, contributing to the overall success and industry leadership of the enterprise.",
     ],
-    imageOne: "whichbingo-1.png",
-    imageTwo: "whichbingo-2.png",
+    imageOne: "/whichbingo-1.png",
+    imageTwo: "/whichbingo-2.png",
   },
   // NUMBER FOUR
   {
@@ -86,8 +86,8 @@ const PortfolioData = [
       "4. Contributed to critical administration duties, including case load management and session planning, ensuring smooth operations.",
       "5. Facilitated learners' achievement of Maths, English, and ICT functional skills qualifications to meet framework requirements.",
     ],
-    imageOne: "course-design-1.jpg",
-    imageTwo: "course-design-3.png",
+    imageOne: "/course-design-1.jpg",
+    imageTwo: "/course-design-3.png",
   },
   // NUMBER FIVE
   {
@@ -115,8 +115,8 @@ const PortfolioData = [
       "3. Ensured alignment with industry standards and anticipated future demands through careful curriculum design and project management.",
       "4. Equipped learners with focused expertise in key digital marketing areas, preparing them for success in the industry.",
     ],
-    imageOne: "knowledgeweb-one.png",
-    imageTwo: "knowledgeweb-two.png",
+    imageOne: "/knowledgeweb-one.png",
+    imageTwo: "/knowledgeweb-two.png",
   },
   // NUMBER SIX
   {
@@ -147,8 +147,8 @@ const PortfolioData = [
       "5. Expertise Access: Provided clients with access to specialist digital marketers, enhancing project precision and instilling confidence in Lead Kinetics' capabilities.",
       "6. Business Impact: Contributed to the success of client businesses by aligning digital marketing strategies with overarching business objectives, fostering sustainable growth and success.",
     ],
-    imageOne: "lead-kinetics-one.png",
-    imageTwo: "lead-kinetics-two.png",
+    imageOne: "/lead-kinetics-one.png",
+    imageTwo: "/lead-kinetics-two.png",
   },
   // NUMBER SEVEN
   {
@@ -177,8 +177,8 @@ const PortfolioData = [
       "4. Increased Awareness: Educational content and blog posts raised awareness about the importance of digital marketing portfolios, attracting more users to the Atomic Portfolios platform.",
       "5. Positive Feedback: Received positive feedback from users who found Atomic Portfolios to be a valuable and time-saving resource in their journey towards securing digital marketing roles.",
     ],
-    imageOne: "atomic-portfolio-one.png",
-    imageTwo: "atomic-portfolio-two.png",
+    imageOne: "/atomic-portfolio-one.png",
+    imageTwo: "/atomic-portfolio-two.png",
   },
   // NUMBER 8
   {
@@ -207,8 +207,8 @@ const PortfolioData = [
       "4. Educational Impact: Helped digital marketing students and aspiring marketers improve their portfolio-building skills and confidence, empowering them to pursue career opportunities in the field.",
       "5. Brand Building: Established the YouTube channel as a trusted resource for digital marketing portfolio advice and inspiration, enhancing personal branding and credibility within the industry.",
     ],
-    imageOne: "james-camera.jpg",
-    imageTwo: "james-camera-2.jpg",
+    imageOne: "/james-camera.jpg",
+    imageTwo: "/james-camera-2.jpg",
   },
   // NUMBER NINE
   {
@@ -237,8 +237,8 @@ const PortfolioData = [
       "4. Educational Impact: Helped digital marketing students and aspiring marketers improve their portfolio-building skills and confidence, empowering them to pursue career opportunities in the field.",
       "5. Brand Building: Established the YouTube channel as a trusted resource for digital marketing portfolio advice and inspiration, enhancing personal branding and credibility within the industry.",
     ],
-    imageOne: "people power politics-1.png",
-    imageTwo: "graphic-example-2.png",
+    imageOne: "/people power politics-1.png",
+    imageTwo: "/graphic-example-2.png",
   },
 ];
 
